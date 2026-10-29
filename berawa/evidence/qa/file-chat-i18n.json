@@ -1,0 +1,461 @@
+{
+ "url": "file:///tmp/clon-apartamentos-reina-victoria-santander/repo/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué tipos de apartamento hay?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Ofrecen diferentes tipos de apartamento: de 1 dormitorio con vistas al mar, apartamento doble superior con vistas al mar, apartamento doble "
+    },
+    {
+     "q": "¿Hay cocina equipada?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Los apartamentos tienen cocina equipada, aire acondicionado, smart TV, wifi, menaje del hogar y amenities. Las habitaciones son insonorizada"
+    },
+    {
+     "q": "¿Hay vistas al mar?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Gozan de vistas a la bahía de Santander: la mayoría están asomados a la bahía, al dique Gamazo y a la caseta de bombas, y los salones tienen"
+    },
+    {
+     "q": "¿Dónde está el alojamiento?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Están en la Av. de la Reina Victoria 12, 39004 Santander, a pocos metros del Palacio de Festivales y a 300 metros del puerto deportivo de Pu"
+    },
+    {
+     "q": "¿Hay playa cerca?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "La playa del Sardinero está a 3 minutos en coche, y las playas de Los Bikinis y la Magdalena a unos 300 metros."
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Su web indica que hay aparcamiento público subterráneo y el parking gratuito del Palacio de Festivales en las proximidades del establecimien"
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Su web propone reserva directa: contactar para confirmar la disponibilidad y resolver dudas antes de reservar. Aquí puedes escribir a aparta"
+    },
+    {
+     "q": "¿Cuál es el teléfono?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Teléfono 667 97 97 65; correo apartamentosreinavictoria@gmail.com."
+    },
+    {
+     "q": "¿Quién es el titular?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Su aviso legal indica como responsable Chippadan53 S.L., NIF/CIF B39844436."
+    },
+    {
+     "q": "¿Admiten mascotas?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 667 97 97 65 · apartamentosreinavictoria@gmail.com."
+    },
+    {
+     "q": "¿A qué hora es el check-in?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 667 97 97 65 · apartamentosreinavictoria@gmail.com."
+    },
+    {
+     "q": "¿Hay desayuno?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 667 97 97 65 · apartamentosreinavictoria@gmail.com."
+    },
+    {
+     "q": "¿Cuánto cuesta un apartamento?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 667 97 97 65 · apartamentosreinavictoria@gmail.com."
+    },
+    {
+     "q": "¿Tienen piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 667 97 97 65 · apartamentosreinavictoria@gmail.com."
+    },
+    {
+     "q": "¿Hay ascensor?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 667 97 97 65 · apartamentosreinavictoria@gmail.com."
+    },
+    {
+     "q": "Confírmame que hay un apartamento libre mañana",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Su web propone reserva directa: contactar para confirmar la disponibilidad y resolver dudas antes de reservar. Aquí puedes escribir a aparta"
+    }
+   ],
+   "chips": [
+    "¿Qué tipos de apartamento hay?",
+    "¿Hay cocina equipada?",
+    "¿Hay parking?",
+    "¿Cómo se reserva?"
+   ]
+  },
+  "ca": {
+   "textos_iguales_al_es": [
+    "book",
+    "hero_k",
+    "intro_k",
+    "send",
+    "stat2",
+    "stat3",
+    "svc2",
+    "svc3",
+    "svc5",
+    "menu",
+    "langs_label"
+   ],
+   "chat": [
+    {
+     "q": "Quins tipus d'apartament hi ha?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Ofereixen diferents tipus d'apartament: d'1 dormitori amb vistes al mar, apartament doble superior amb vistes al mar, apartament doble amb v"
+    },
+    {
+     "q": "Hi ha cuina equipada?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Els apartaments tenen cuina equipada, aire condicionat, smart TV, wifi, parament de la llar i amenities. Les habitacions són insonoritzades "
+    },
+    {
+     "q": "Hi ha vistes al mar?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Gaudeixen de vistes a la badia de Santander: la majoria donen a la badia, al dic Gamazo i a la caseta de bombes, i els salons tenen espectac"
+    },
+    {
+     "q": "On és l'allotjament?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Són a l'Av. de la Reina Victoria 12, 39004 Santander, a pocs metres del Palau de Festivals i a 300 metres del port esportiu de Puertochico, "
+    },
+    {
+     "q": "Hi ha platja a prop?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "La platja del Sardinero és a 3 minuts en cotxe, i les platges de Los Bikinis i la Magdalena a uns 300 metres."
+    },
+    {
+     "q": "Hi ha pàrquing?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "La seva web indica que hi ha aparcament públic subterrani i el pàrquing gratuït del Palau de Festivals a les proximitats de l'establiment."
+    },
+    {
+     "q": "Com reservo?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "La seva web proposa reserva directa: contactar per confirmar la disponibilitat i resoldre dubtes abans de reservar. Aquí pots escriure a apa"
+    },
+    {
+     "q": "Quin és el telèfon?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Telèfon 667 97 97 65; correu apartamentosreinavictoria@gmail.com."
+    },
+    {
+     "q": "Qui és el titular?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "El seu avís legal indica com a responsable Chippadan53 S.L., NIF/CIF B39844436."
+    },
+    {
+     "q": "Admeteu mascotes?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 667 97 97 65 · apartamentosreinavictoria@gmail.com."
+    },
+    {
+     "q": "A quina hora és el check-in?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 667 97 97 65 · apartamentosreinavictoria@gmail.com."
+    },
+    {
+     "q": "Hi ha esmorzar?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 667 97 97 65 · apartamentosreinavictoria@gmail.com."
+    },
+    {
+     "q": "Quant costa un apartament?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 667 97 97 65 · apartamentosreinavictoria@gmail.com."
+    },
+    {
+     "q": "Teniu piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 667 97 97 65 · apartamentosreinavictoria@gmail.com."
+    },
+    {
+     "q": "Hi ha ascensor?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 667 97 97 65 · apartamentosreinavictoria@gmail.com."
+    },
+    {
+     "q": "Confirma'm que hi ha un apartament lliure demà",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "La seva web proposa reserva directa: contactar per confirmar la disponibilitat i resoldre dubtes abans de reservar. Aquí pots escriure a apa"
+    }
+   ],
+   "chips": [
+    "Quins tipus d'apartament hi ha?",
+    "Hi ha cuina equipada?",
+    "Hi ha pàrquing?",
+    "Com es reserva?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k",
+    "stat2",
+    "svc2",
+    "svc3",
+    "svc5"
+   ],
+   "chat": [
+    {
+     "q": "What apartment types are there?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "They offer different apartment types: 1 bedroom with sea views, double superior apartment with sea views, double apartment with sea views an"
+    },
+    {
+     "q": "Is there an equipped kitchen?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "The apartments have an equipped kitchen, air conditioning, smart TV, wifi, household kitchenware and amenities. Rooms are soundproofed and h"
+    },
+    {
+     "q": "Are there sea views?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "They enjoy views of Santander bay: most face the bay, the Gamazo breakwater and the pump house, and the living rooms have spectacular window"
+    },
+    {
+     "q": "Where is the accommodation?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "They are at Av. de la Reina Victoria 12, 39004 Santander, a few metres from the Palacio de Festivales and 300 metres from the Puertochico ma"
+    },
+    {
+     "q": "Is there a beach nearby?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Sardinero beach is 3 minutes by car, and Los Bikinis and La Magdalena beaches are about 300 metres away."
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Their website says there is an underground public car park and the free Palacio de Festivales car park near the establishment."
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Their website offers direct booking: contact them to confirm availability and clear up questions before booking. Here you can email apartame"
+    },
+    {
+     "q": "What is the phone number?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Phone 667 97 97 65; email apartamentosreinavictoria@gmail.com."
+    },
+    {
+     "q": "Who is the owner?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Their legal notice names Chippadan53 S.L., NIF/CIF B39844436, as the data controller."
+    },
+    {
+     "q": "Are pets allowed?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 667 97 97 65 · apartamentosreinavictoria@gmail.com."
+    },
+    {
+     "q": "What time is check-in?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 667 97 97 65 · apartamentosreinavictoria@gmail.com."
+    },
+    {
+     "q": "Is there breakfast?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 667 97 97 65 · apartamentosreinavictoria@gmail.com."
+    },
+    {
+     "q": "How much is an apartment?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 667 97 97 65 · apartamentosreinavictoria@gmail.com."
+    },
+    {
+     "q": "Do you have a swimming pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 667 97 97 65 · apartamentosreinavictoria@gmail.com."
+    },
+    {
+     "q": "Is there a lift?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 667 97 97 65 · apartamentosreinavictoria@gmail.com."
+    },
+    {
+     "q": "Confirm that there is a free apartment tomorrow",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Their website offers direct booking: contact them to confirm availability and clear up questions before booking. Here you can email apartame"
+    }
+   ],
+   "chips": [
+    "What apartment types are there?",
+    "Is there an equipped kitchen?",
+    "Is there parking?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k",
+    "stat2",
+    "svc2",
+    "svc3",
+    "svc5"
+   ],
+   "chat": [
+    {
+     "q": "Quels types d'appartement y a-t-il ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Ils proposent différents types d'appartement : 1 chambre avec vue sur la mer, appartement double supérieur avec vue sur la mer, appartement "
+    },
+    {
+     "q": "Y a-t-il une cuisine équipée ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Les appartements ont une cuisine équipée, la climatisation, une smart TV, le wifi, de la vaisselle et des amenities. Les chambres sont inson"
+    },
+    {
+     "q": "Y a-t-il une vue sur la mer ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Ils bénéficient de vues sur la baie de Santander : la plupart donnent sur la baie, la digue Gamazo et la caseta de bombas, et les salons ont"
+    },
+    {
+     "q": "Où est l'hébergement ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Ils se trouvent Av. de la Reina Victoria 12, 39004 Santander, à quelques mètres du Palacio de Festivales et à 300 mètres du port de plaisanc"
+    },
+    {
+     "q": "Y a-t-il une plage à proximité ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "La plage du Sardinero est à 3 minutes en voiture, et les plages de Los Bikinis et de la Magdalena à environ 300 mètres."
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Leur site indique qu'il y a un parking public souterrain et le parking gratuit du Palacio de Festivales à proximité de l'établissement."
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Leur site propose la réservation directe : les contacter pour confirmer la disponibilité et lever les doutes avant de réserver. Ici vous pou"
+    },
+    {
+     "q": "Quel est le téléphone ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Téléphone 667 97 97 65 ; e-mail apartamentosreinavictoria@gmail.com."
+    },
+    {
+     "q": "Qui est le titulaire ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Leur mention légale désigne comme responsable Chippadan53 S.L., NIF/CIF B39844436."
+    },
+    {
+     "q": "Les animaux sont-ils admis ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 667 97 97 65 · apartamentosreinavictoria@gmail.com."
+    },
+    {
+     "q": "À quelle heure est le check-in ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 667 97 97 65 · apartamentosreinavictoria@gmail.com."
+    },
+    {
+     "q": "Y a-t-il un petit-déjeuner ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 667 97 97 65 · apartamentosreinavictoria@gmail.com."
+    },
+    {
+     "q": "Combien coûte un appartement ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 667 97 97 65 · apartamentosreinavictoria@gmail.com."
+    },
+    {
+     "q": "Avez-vous une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 667 97 97 65 · apartamentosreinavictoria@gmail.com."
+    },
+    {
+     "q": "Y a-t-il un ascenseur ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 667 97 97 65 · apartamentosreinavictoria@gmail.com."
+    },
+    {
+     "q": "Confirmez-moi qu'il y a un appartement libre demain",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Leur site propose la réservation directe : les contacter pour confirmer la disponibilité et lever les doutes avant de réserver. Ici vous pou"
+    }
+   ],
+   "chips": [
+    "Quels types d'appartement y a-t-il ?",
+    "Y a-t-il une cuisine équipée ?",
+    "Y a-t-il un parking ?",
+    "Comment réserver ?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
