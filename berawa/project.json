@@ -1,0 +1,63 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-apartamentos-reina-victoria-santander",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-10-29T04:14:00+01:00",
+ "updated_at": "2026-10-29T04:16:00+01:00",
+ "business": {
+  "name": "Apartamentos Reina Victoria",
+  "legal_name": "Chippadan53 S.L.",
+  "registry_ids": [
+   "CIF B39844436"
+  ],
+  "url": "https://www.apartamentosreinavictoria.com/",
+  "domain": "apartamentosreinavictoria.com",
+  "municipality": "Santander",
+  "province": "Cantabria",
+  "address": "Av. de la Reina Victoria 12 · 39004 Santander",
+  "phones": [
+   "667 97 97 65"
+  ],
+  "emails": [
+   "apartamentosreinavictoria@gmail.com"
+  ],
+  "sector": "apartamentos turisticos con vistas a la bahia"
+ },
+ "rating": {
+  "value": 4.5,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por telefono, web)",
+  "url": "https://www.google.com/maps/place/Apartamentos+Reina+Victoria/@43.4634081,-3.7888164,17z/data=!3m1!4b1!4m6!3m5!1s0xd494b850140ecab:0xb738683f53edd3df!8m2!3d43.4634081!4d-3.7888164!16s%2Fg%2F11fsty8yxh",
+  "date": "2026-10-29T04:04:23+01:00",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "ca",
+  "en",
+  "fr"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "mail",
+  "email": "apartamentosreinavictoria@gmail.com",
+  "note": "La web del negocio pide contactar para confirmar disponibilidad (reserva directa); la demo usa solo contacto real (correo y telefono)."
+ },
+ "audit_original": {
+  "url": "https://www.apartamentosreinavictoria.com/",
+  "date": "2026-10-29T04:14:00+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "primer tipo de negocio sin precedente: apartamentos turisticos urbanos con vistas al mar (el modelo aprobado Cazorla Rural es alojamiento rural)",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
