@@ -1,0 +1,36 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.apartamentosreinavictoria.com/",
+ "read_at": "2026-10-29T04:13:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.apartamentosreinavictoria.com/",
+   "sha256": "cd76fa62568fa190b248e0effa81b7acd9f831ff0bc61ebd04584bb99161d36b",
+   "chars": 2826
+  },
+  {
+   "url": "https://www.apartamentosreinavictoria.com/apartamentos-turisticos-santander/",
+   "sha256": "f4a78196ef58315dd3c7ab7315160479a84d05e9fcab8a42024f14acd2d6217f",
+   "chars": 4002
+  },
+  {
+   "url": "https://www.apartamentosreinavictoria.com/aviso-legal/",
+   "sha256": "db96c9e0e6e0d06eadd5b25df8eec5ac456b32ec12c900e068ba1153bb942fb5",
+   "chars": 3171
+  },
+  {
+   "url": "https://www.apartamentosreinavictoria.com/contacto/",
+   "sha256": "815ac41c775b7461f16eade838cddbca82b0ec70d5397db635d8fb16ca9ab6f4",
+   "chars": 1587
+  },
+  {
+   "url": "https://www.apartamentosreinavictoria.com/ubicacion-apartamentos-santander/",
+   "sha256": "ebb0f709f1d1ab5fdb08d01395ebd1589c64866e97a0787326f0ffc4d11be4ec",
+   "chars": 2514
+  }
+ ],
+ "other_pages_read": [
+  "https://www.apartamentosreinavictoria.com/politica-de-privacidad/"
+ ]
+}

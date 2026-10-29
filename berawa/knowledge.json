@@ -1,0 +1,600 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-apartamentos-reina-victoria-santander",
+ "source_site": "https://www.apartamentosreinavictoria.com/",
+ "source_read_at": "2026-10-29T04:13:00+01:00",
+ "note": "Respuestas solo con datos publicados en apartamentosreinavictoria.com. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "apartamentos",
+   "keys": {
+    "es": [
+     "tipos de",
+     "que apartamentos",
+     "cuantos apartamentos",
+     "dormitorio",
+     "estudio",
+     "deluxe",
+     "doble",
+     "superior",
+     "capacidad",
+     "cuantas personas"
+    ],
+    "ca": [
+     "tipus d",
+     "quins apartaments",
+     "quants apartaments",
+     "dormitori",
+     "estudi",
+     "deluxe",
+     "doble",
+     "superior",
+     "capacitat",
+     "quantes persones"
+    ],
+    "en": [
+     "apartment types",
+     "types of",
+     "what apartments",
+     "how many apartments",
+     "bedroom",
+     "studio",
+     "deluxe",
+     "double",
+     "superior",
+     "capacity",
+     "how many guests"
+    ],
+    "fr": [
+     "types d",
+     "quels appartements",
+     "combien d appartements",
+     "chambre",
+     "studio",
+     "deluxe",
+     "double",
+     "superieur",
+     "capacite",
+     "combien de personnes"
+    ]
+   },
+   "a": {
+    "es": "Ofrecen diferentes tipos de apartamento: de 1 dormitorio con vistas al mar, apartamento doble superior con vistas al mar, apartamento doble con vistas al mar y un Estudio Deluxe orientado a Reina Victoria.",
+    "ca": "Ofereixen diferents tipus d'apartament: d'1 dormitori amb vistes al mar, apartament doble superior amb vistes al mar, apartament doble amb vistes al mar i un Estudi Deluxe orientat a Reina Victoria.",
+    "en": "They offer different apartment types: 1 bedroom with sea views, double superior apartment with sea views, double apartment with sea views and a Deluxe Studio facing Reina Victoria.",
+    "fr": "Ils proposent différents types d'appartement : 1 chambre avec vue sur la mer, appartement double supérieur avec vue sur la mer, appartement double avec vue sur la mer et un Studio Deluxe orienté sur Reina Victoria."
+   },
+   "sources": [
+    {
+     "url": "https://www.apartamentosreinavictoria.com/apartamentos-turisticos-santander/",
+     "quote": "1 Dormitorio y vistas al mar"
+    },
+    {
+     "url": "https://www.apartamentosreinavictoria.com/apartamentos-turisticos-santander/",
+     "quote": "Apartamento doble superior con vistas al mar"
+    },
+    {
+     "url": "https://www.apartamentosreinavictoria.com/apartamentos-turisticos-santander/",
+     "quote": "Apartamento doble con vistas al mar"
+    },
+    {
+     "url": "https://www.apartamentosreinavictoria.com/apartamentos-turisticos-santander/",
+     "quote": "Estudio Deluxe"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "equipamiento",
+   "keys": {
+    "es": [
+     "cocina",
+     "aire acondicionado",
+     "smart tv",
+     "television",
+     "wifi",
+     "wi fi",
+     "internet",
+     "menaje",
+     "amenities",
+     "insonoriz",
+     "equipamiento",
+     "que incluye",
+     "bano"
+    ],
+    "ca": [
+     "cuina",
+     "aire condicionat",
+     "smart tv",
+     "televisio",
+     "wifi",
+     "wi fi",
+     "internet",
+     "parament",
+     "amenities",
+     "insonoritz",
+     "equipament",
+     "que inclou",
+     "bany"
+    ],
+    "en": [
+     "kitchen",
+     "air conditioning",
+     "smart tv",
+     "television",
+     "wifi",
+     "wi fi",
+     "internet",
+     "kitchenware",
+     "amenities",
+     "soundproof",
+     "equipment",
+     "what is included",
+     "bathroom"
+    ],
+    "fr": [
+     "cuisine",
+     "climatisation",
+     "smart tv",
+     "television",
+     "wifi",
+     "wi fi",
+     "internet",
+     "vaisselle",
+     "amenities",
+     "insonoris",
+     "equipement",
+     "bain"
+    ]
+   },
+   "a": {
+    "es": "Los apartamentos tienen cocina equipada, aire acondicionado, smart TV, wifi, menaje del hogar y amenities. Las habitaciones son insonorizadas y tienen baños integrados en las habitaciones.",
+    "ca": "Els apartaments tenen cuina equipada, aire condicionat, smart TV, wifi, parament de la llar i amenities. Les habitacions són insonoritzades i tenen banys integrats a les habitacions.",
+    "en": "The apartments have an equipped kitchen, air conditioning, smart TV, wifi, household kitchenware and amenities. Rooms are soundproofed and have bathrooms integrated into the rooms.",
+    "fr": "Les appartements ont une cuisine équipée, la climatisation, une smart TV, le wifi, de la vaisselle et des amenities. Les chambres sont insonorisées et ont des salles de bain intégrées."
+   },
+   "sources": [
+    {
+     "url": "https://www.apartamentosreinavictoria.com/apartamentos-turisticos-santander/",
+     "quote": "cocina equipada, aires acondicionados, smart tv, wifi, menaje del hogar y amenitis"
+    },
+    {
+     "url": "https://www.apartamentosreinavictoria.com/ubicacion-apartamentos-santander/",
+     "quote": "Ofrecen habitaciones insonorizadas, con aire acondicionado y WiFi gratuita"
+    },
+    {
+     "url": "https://www.apartamentosreinavictoria.com/ubicacion-apartamentos-santander/",
+     "quote": "baños integrados en las habitaciones"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "vistas",
+   "keys": {
+    "es": [
+     "vistas",
+     "bahia",
+     "ventanal",
+     "salon",
+     "dique"
+    ],
+    "ca": [
+     "vistes",
+     "badia",
+     "finestral",
+     "salo",
+     "dic"
+    ],
+    "en": [
+     "views",
+     "bay",
+     "windows",
+     "living room",
+     "sea"
+    ],
+    "fr": [
+     "vue",
+     "baie",
+     "vitrees",
+     "salon",
+     "mer"
+    ]
+   },
+   "a": {
+    "es": "Gozan de vistas a la bahía de Santander: la mayoría están asomados a la bahía, al dique Gamazo y a la caseta de bombas, y los salones tienen espectaculares ventanales.",
+    "ca": "Gaudeixen de vistes a la badia de Santander: la majoria donen a la badia, al dic Gamazo i a la caseta de bombes, i els salons tenen espectaculars finestrals.",
+    "en": "They enjoy views of Santander bay: most face the bay, the Gamazo breakwater and the pump house, and the living rooms have spectacular windows.",
+    "fr": "Ils bénéficient de vues sur la baie de Santander : la plupart donnent sur la baie, la digue Gamazo et la caseta de bombas, et les salons ont de spectaculaires baies vitrées."
+   },
+   "sources": [
+    {
+     "url": "https://www.apartamentosreinavictoria.com/ubicacion-apartamentos-santander/",
+     "quote": "Gozan de fantásticas vistas a la bahía de Santander"
+    },
+    {
+     "url": "https://www.apartamentosreinavictoria.com/ubicacion-apartamentos-santander/",
+     "quote": "La mayoría están asomados a la bahía, al dique Gamazo y a la caseta de bombas"
+    },
+    {
+     "url": "https://www.apartamentosreinavictoria.com/apartamentos-turisticos-santander/",
+     "quote": "espectaculares ventanales"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "ubicación",
+   "keys": {
+    "es": [
+     "donde",
+     "direccion",
+     "ubicacion",
+     "situado",
+     "mapa",
+     "llegar",
+     "palacio de festivales",
+     "puerto",
+     "puertochico",
+     "centro",
+     "comercial",
+     "restaurantes",
+     "calle",
+     "avenida"
+    ],
+    "ca": [
+     " on ",
+     "adreca",
+     "ubicacio",
+     "situat",
+     "mapa",
+     "arribar",
+     "palau de festivals",
+     "port",
+     "puertochico",
+     "centre",
+     "comercial",
+     "restaurants",
+     "carrer",
+     "avinguda"
+    ],
+    "en": [
+     "where",
+     "address",
+     "location",
+     "located",
+     "map",
+     "get there",
+     "palacio de festivales",
+     "marina",
+     "puertochico",
+     "centre",
+     "center",
+     "shopping",
+     "restaurants",
+     "street",
+     "avenue"
+    ],
+    "fr": [
+     "ou est",
+     "adresse",
+     "situe",
+     "plan",
+     "arriver",
+     "palacio de festivales",
+     "port",
+     "puertochico",
+     "centre",
+     "commercial",
+     "restaurants",
+     "rue",
+     "avenue"
+    ]
+   },
+   "a": {
+    "es": "Están en la Av. de la Reina Victoria 12, 39004 Santander, a pocos metros del Palacio de Festivales y a 300 metros del puerto deportivo de Puertochico, cerca de la principal zona comercial y de ocio y de varios restaurantes.",
+    "ca": "Són a l'Av. de la Reina Victoria 12, 39004 Santander, a pocs metres del Palau de Festivals i a 300 metres del port esportiu de Puertochico, a prop de la principal zona comercial i d'oci i de diversos restaurants.",
+    "en": "They are at Av. de la Reina Victoria 12, 39004 Santander, a few metres from the Palacio de Festivales and 300 metres from the Puertochico marina, near the main shopping and leisure area and several restaurants.",
+    "fr": "Ils se trouvent Av. de la Reina Victoria 12, 39004 Santander, à quelques mètres du Palacio de Festivales et à 300 mètres du port de plaisance de Puertochico, près de la principale zone commerçante et de loisirs et de plusieurs restaurants."
+   },
+   "sources": [
+    {
+     "url": "https://www.apartamentosreinavictoria.com/",
+     "quote": "Av de la Reina Victoria, 12, 39004 Santander, Cantabria"
+    },
+    {
+     "url": "https://www.apartamentosreinavictoria.com/ubicacion-apartamentos-santander/",
+     "quote": "se encuentran a pocos metros del Palacio de Festivales y 300 metros del puerto deportivo de Puertochico"
+    },
+    {
+     "url": "https://www.apartamentosreinavictoria.com/ubicacion-apartamentos-santander/",
+     "quote": "cerca de la principal zona comercial y de ocio de Santander, cerca del puerto deportivo y de varios restaurantes"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "playas",
+   "keys": {
+    "es": [
+     "playa",
+     "sardinero",
+     "bikinis",
+     "magdalena",
+     "arena"
+    ],
+    "ca": [
+     "platja",
+     "sardinero",
+     "bikinis",
+     "magdalena",
+     "sorra"
+    ],
+    "en": [
+     "beach",
+     "sardinero",
+     "bikinis",
+     "magdalena",
+     "sand"
+    ],
+    "fr": [
+     "plage",
+     "sardinero",
+     "bikinis",
+     "magdalena",
+     "sable"
+    ]
+   },
+   "a": {
+    "es": "La playa del Sardinero está a 3 minutos en coche, y las playas de Los Bikinis y la Magdalena a unos 300 metros.",
+    "ca": "La platja del Sardinero és a 3 minuts en cotxe, i les platges de Los Bikinis i la Magdalena a uns 300 metres.",
+    "en": "Sardinero beach is 3 minutes by car, and Los Bikinis and La Magdalena beaches are about 300 metres away.",
+    "fr": "La plage du Sardinero est à 3 minutes en voiture, et les plages de Los Bikinis et de la Magdalena à environ 300 mètres."
+   },
+   "sources": [
+    {
+     "url": "https://www.apartamentosreinavictoria.com/ubicacion-apartamentos-santander/",
+     "quote": "La playa del Sardinero se halla a 3 minutos en coche"
+    },
+    {
+     "url": "https://www.apartamentosreinavictoria.com/ubicacion-apartamentos-santander/",
+     "quote": "Los apartamentos están a unos 300 metros de las playas de Los Bikinis y la Magdalena"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "parking",
+   "keys": {
+    "es": [
+     "parking",
+     "aparcar",
+     "aparcamiento",
+     "garaje",
+     "coche",
+     "estacionar"
+    ],
+    "ca": [
+     "parking",
+     "pàrquing",
+     "parquing",
+     "aparcar",
+     "aparcament",
+     "garatge",
+     "cotxe"
+    ],
+    "en": [
+     "parking",
+     "park",
+     "garage",
+     "car "
+    ],
+    "fr": [
+     "parking",
+     "stationn",
+     "garage",
+     "voiture"
+    ]
+   },
+   "a": {
+    "es": "Su web indica que hay aparcamiento público subterráneo y el parking gratuito del Palacio de Festivales en las proximidades del establecimiento.",
+    "ca": "La seva web indica que hi ha aparcament públic subterrani i el pàrquing gratuït del Palau de Festivals a les proximitats de l'establiment.",
+    "en": "Their website says there is an underground public car park and the free Palacio de Festivales car park near the establishment.",
+    "fr": "Leur site indique qu'il y a un parking public souterrain et le parking gratuit du Palacio de Festivales à proximité de l'établissement."
+   },
+   "sources": [
+    {
+     "url": "https://www.apartamentosreinavictoria.com/ubicacion-apartamentos-santander/",
+     "quote": "Hay aparcamiento público subterráneo, así como el parking gratuito del palacio de festivales, en las proximidades del establecimiento"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "confirmame",
+     "libre",
+     "fechas",
+     "directa",
+     "mejor precio"
+    ],
+    "ca": [
+     "reserv",
+     "disponib",
+     "confirma m",
+     "lliure",
+     "dates",
+     "directa",
+     "millor preu"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "confirm",
+     "free apartment",
+     "dates",
+     "direct",
+     "best price"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "confirmez",
+     "libre",
+     "dates",
+     "directe",
+     "meilleur prix"
+    ]
+   },
+   "a": {
+    "es": "Su web propone reserva directa: contactar para confirmar la disponibilidad y resolver dudas antes de reservar. Aquí puedes escribir a apartamentosreinavictoria@gmail.com o llamar al 667 97 97 65. Este asistente no confirma disponibilidad ni reservas.",
+    "ca": "La seva web proposa reserva directa: contactar per confirmar la disponibilitat i resoldre dubtes abans de reservar. Aquí pots escriure a apartamentosreinavictoria@gmail.com o trucar al 667 97 97 65. Aquest assistent no confirma disponibilitat ni reserves.",
+    "en": "Their website offers direct booking: contact them to confirm availability and clear up questions before booking. Here you can email apartamentosreinavictoria@gmail.com or call 667 97 97 65. This assistant does not confirm availability or bookings.",
+    "fr": "Leur site propose la réservation directe : les contacter pour confirmer la disponibilité et lever les doutes avant de réserver. Ici vous pouvez écrire à apartamentosreinavictoria@gmail.com ou appeler le 667 97 97 65. Cet assistant ne confirme ni disponibilité ni réservation."
+   },
+   "sources": [
+    {
+     "url": "https://www.apartamentosreinavictoria.com/contacto/",
+     "quote": "Contacta con nosotros para confirmar disponibilidad de alquiler apartamentos Santander y recibir información clara antes de reservar"
+    },
+    {
+     "url": "https://www.apartamentosreinavictoria.com/contacto/",
+     "quote": "Teléfono: 667 97 97 65"
+    },
+    {
+     "url": "https://www.apartamentosreinavictoria.com/contacto/",
+     "quote": "Email: apartamentosreinavictoria@gmail.com"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K08",
+   "topic": "contacto",
+   "keys": {
+    "es": [
+     "telefono",
+     "llamar",
+     "correo",
+     "email",
+     "contacto",
+     "contactar",
+     "whatsapp",
+     "movil"
+    ],
+    "ca": [
+     "telefon",
+     "trucar",
+     "correu",
+     "email",
+     "contacte",
+     "contactar",
+     "whatsapp",
+     "mobil"
+    ],
+    "en": [
+     "phone",
+     "call",
+     "email",
+     " mail",
+     "contact",
+     "whatsapp",
+     "mobile"
+    ],
+    "fr": [
+     "telephone",
+     "appeler",
+     "email",
+     " mail",
+     "contact",
+     "whatsapp",
+     "mobile"
+    ]
+   },
+   "a": {
+    "es": "Teléfono 667 97 97 65; correo apartamentosreinavictoria@gmail.com.",
+    "ca": "Telèfon 667 97 97 65; correu apartamentosreinavictoria@gmail.com.",
+    "en": "Phone 667 97 97 65; email apartamentosreinavictoria@gmail.com.",
+    "fr": "Téléphone 667 97 97 65 ; e-mail apartamentosreinavictoria@gmail.com."
+   },
+   "sources": [
+    {
+     "url": "https://www.apartamentosreinavictoria.com/",
+     "quote": "Teléfono: 667 97 97 65"
+    },
+    {
+     "url": "https://www.apartamentosreinavictoria.com/",
+     "quote": "Email: apartamentosreinavictoria@gmail.com"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K09",
+   "topic": "titular",
+   "keys": {
+    "es": [
+     "titular",
+     "propietario",
+     "razon social",
+     "cif",
+     "quien es",
+     "nif"
+    ],
+    "ca": [
+     "titular",
+     "propietari",
+     "rao social",
+     "cif",
+     "qui es",
+     "nif"
+    ],
+    "en": [
+     "owner",
+     "owns",
+     "legal name",
+     "cif",
+     "who is",
+     "nif"
+    ],
+    "fr": [
+     "titulaire",
+     "proprietaire",
+     "raison sociale",
+     "cif",
+     "qui est",
+     "nif"
+    ]
+   },
+   "a": {
+    "es": "Su aviso legal indica como responsable Chippadan53 S.L., NIF/CIF B39844436.",
+    "ca": "El seu avís legal indica com a responsable Chippadan53 S.L., NIF/CIF B39844436.",
+    "en": "Their legal notice names Chippadan53 S.L., NIF/CIF B39844436, as the data controller.",
+    "fr": "Leur mention légale désigne comme responsable Chippadan53 S.L., NIF/CIF B39844436."
+   },
+   "sources": [
+    {
+     "url": "https://www.apartamentosreinavictoria.com/aviso-legal/",
+     "quote": "Identidad del Responsable: Chippadan53 S.L. B39844436"
+    },
+    {
+     "url": "https://www.apartamentosreinavictoria.com/aviso-legal/",
+     "quote": "NIF/CIF: B39844436"
+    }
+   ],
+   "cta": false
+  }
+ ]
+}
